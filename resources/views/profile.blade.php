@@ -484,7 +484,7 @@
                                     <li class="breadcrumb-item">
                                         <a href="#">Home</a>
                                     </li>
-                                    <li class="breadcrumb-item active" aria-current="page">Profile</li>
+                                    <li class="breadcrumb-item active" aria-current="page">Profile kuuuuu</li>
                                 </ol>
                             </nav>
                         </div>
