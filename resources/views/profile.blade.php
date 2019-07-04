@@ -563,11 +563,11 @@
                                 <div class="tab-pane fade show active" id="last-month" role="tabpanel" aria-labelledby="pills-profile-tab">
                                     <div class="card-body">
                                         <div class="row">
-                                            <div class="col-md-4 col-xs-6 b-r"> <strong>Full Name</strong>
+                                            <div class="col-md-4 col-xs-6 b-r"> <strong>Full Nameeeeee</strong>
                                                 <br>
                                                 <p class="text-muted">{{$data_profile->name}}</p>
                                             </div>
-                                            <div class="col-md-4 col-xs-6 b-r"> <strong>Mobile</strong>
+                                            <div class="col-md-4 col-xs-6 b-r"> <strong>Mobile NurulMasta</strong>
                                                 <br>
                                                 <p class="text-muted">{{$data_profile->phone}}</p>
                                             </div>
