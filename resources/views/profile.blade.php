@@ -523,7 +523,7 @@
                                 <h6>{{$data_profile->company[0]->name}}</h6>								
 								<small class="text-muted p-t-30 db">Industry Type</small>
                                 <h6>{{$data_profile->company[0]->industry}}</h6>
-								<small class="text-muted p-t-30 db">Registration Number (ROC)</small>
+								<small class="text-muted p-t-30 db">Registration Number 777777S(ROC)</small>
                                 <h6>{{$data_profile->company[0]->registration_number}}</h6>
 								<small class="text-muted p-t-30 db">Address</small>
                                 <h6>belum ada dalam database</h6>
