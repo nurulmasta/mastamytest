@@ -576,7 +576,7 @@
                                                 <p class="text-muted">{{$data_profile->email}}</p>
                                             </div>
                                         </div>
-										<h4 class="font-medium m-t-30">About Me</h4>
+										<h4 class="font-medium m-t-30">About NurulMasta</h4>
                                         <hr>
                                         <p class="m-t-30">{{$data_profile->about_me}}</p>
                                                                                 
