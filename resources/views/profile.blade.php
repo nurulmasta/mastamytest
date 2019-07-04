@@ -571,7 +571,7 @@
                                                 <br>
                                                 <p class="text-muted">{{$data_profile->phone}}</p>
                                             </div>
-                                            <div class="col-md-4 col-xs-6 b-r"> <strong>Email</strong>
+                                            <div class="col-md-4 col-xs-6 b-r"> <strong>Email NurulMasta</strong>
                                                 <br>
                                                 <p class="text-muted">{{$data_profile->email}}</p>
                                             </div>
